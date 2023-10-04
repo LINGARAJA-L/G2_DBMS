@@ -46,7 +46,7 @@ create table student_table(Roll_no numeric(10) , Name varchar(20) , Age numeric(
 ### SQL QUERY: 
 ```
 drop table student_table;
----
+```
 
 ### OUTPUT:
 ![image](https://github.com/kavinesh8476/H2_DBMS/assets/118466561/fde9478b-5bfc-4f46-93da-8a8ad27a82e4)
